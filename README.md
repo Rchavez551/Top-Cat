@@ -1,2 +1,2 @@
 # Top-Cat
-# There is nothing permanant, except change
+# To Improve is to change
